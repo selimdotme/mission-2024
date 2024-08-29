@@ -114,3 +114,10 @@ header p{
     margin: 20px 0;
     font-size: 1.2rem;
 }
+/* community section start here */
+.community{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
