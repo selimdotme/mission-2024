@@ -1,0 +1,52 @@
+*{
+    margin:0;
+    padding:0;
+}
+.container{
+    max-width: 80%;
+    margin: 0 auto;
+}
+
+/* shared style  */
+
+.primary-color{
+    color:rgba(51, 51, 51, 1);
+}
+.secondary-color{
+    color:rgba(62, 62, 62, 1);
+}
+.text-color{
+    color:#FFAD5A;
+}
+.btn-primary{
+    background-color: #FF5959;
+    border:none;
+    padding:10px 15px;
+    border-radius: 8px;
+    color:#fff;
+    font-size: 1rem;
+    font-weight: 500;
+    cursor: pointer;
+}
+/* header style start here */
+
+header h1{
+    font-size: 4rem;
+    font-weight: 700;
+}
+header p{
+    font-size: 1.2rem;
+    margin: 30px 0;
+}
+.mission{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header-img,
+.header-contain{
+    width:45%;
+}
+.header-img img{
+    width: 100%;
+}
