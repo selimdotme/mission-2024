@@ -90,3 +90,27 @@ header p{
 .card-img img{
     width:100%;
 }
+
+/* develop section style start here */
+.develop{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.develop-img{
+    width:40%;
+}
+.develop-contain{
+    width:55%;
+}
+.develop-img img{
+    width:100%
+}
+.develop-tittle{
+    font-size: 2.5rem;
+}
+.dv-des{
+    margin: 20px 0;
+    font-size: 1.2rem;
+}
